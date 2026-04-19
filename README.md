@@ -1,6 +1,6 @@
 # TravelIQ
 
-AI-powered hotel analysis tools for smarter travel decisions — recommendations, price positioning, cancellation risk, and booking timing in one place.
+Data driven hotel analysis tools for smarter travel decisions — recommendations, price positioning, cancellation risk, and booking timing in one place.
 
 ## Features
 
